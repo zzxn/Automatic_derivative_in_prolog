@@ -44,6 +44,7 @@ def showhelp():
     函数：exp(x), ln(x), log2(x), log10(x), log(x, a),
     sin(x), cos(x), tan(x), asin(x), acos(x), atan(x),
     sigmoid(x), relu(x)
+    符号：+ - * / ^
     二、在【变量】栏填写对哪个变量求导，变量只能是
     x、y、z之一
     三、填写好后，点击【求导】按钮，
